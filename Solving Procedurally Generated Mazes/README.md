@@ -1,6 +1,8 @@
 # Solving Procedurally Generated Mazes
 
-This folder contains all code associated with my final year project application, which simulated different algorithms within Python. A copy of my dissertation is available upon request. I achieved a 1st Class in this project, with a grade of 73/100.
+This folder contains all code associated with my final year project application, which simulated different algorithms within Python. A copy of my dissertation is available upon request. 
+
+I achieved a 1st Class in this project, with a mark of 73%.
 
 ### Instructions
 
