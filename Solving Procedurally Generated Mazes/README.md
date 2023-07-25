@@ -6,7 +6,7 @@ This folder contains all code associated with my final year project, a copy of m
 
 ![Picture depicting the application in use. A maze had been generated with the modified binary tree algorithm and solved using breadth-first search. It has taken 1.01 seconds to complete and searched 100% of the maze.](https://github.com/KeithTho/University/assets/102043623/aae1e5e0-604e-43a2-9733-552cc3ada9fa)
 
-There is an executable file within the */dist*  directory. On the left of the window will be a large square in which the algorithm visualisation occurs, while the right side shows all of the available user interface. You can generate random mazes by selecting an algorithm from the **Maze Gen Algorithm** dropdown and pressing **Generate** underneath. Then you can solve this maze using various pathfinding algorithms by selecting one from the **Pathfinding Algorithm** dropdown menu and pressing the corresponding **Generate** button. Various settings below can alter the settings of both generation and visualisation, and data outputs can be found below those. 
+There is an executable file within the *dist*  directory. On the left of the window will be a large square in which the algorithm visualisation occurs, while the right side shows all of the available user interface. You can generate random mazes by selecting an algorithm from the **Maze Gen Algorithm** dropdown and pressing **Generate** underneath. Then you can solve this maze using various pathfinding algorithms by selecting one from the **Pathfinding Algorithm** dropdown menu and pressing the corresponding **Generate** button. Various settings below can alter the settings of both generation and visualisation, and data outputs can be found below those. 
 
 ### Dissertation
 
