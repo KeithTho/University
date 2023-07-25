@@ -1,4 +1,4 @@
-# University
+# University Portfolio
 ### Keith Taylor, Computer Science LJMU
 A collection of work from my bachelors degree final year in which I achieved a 1st class with 75% overall.
 
