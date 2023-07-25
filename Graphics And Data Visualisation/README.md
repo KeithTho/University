@@ -1,6 +1,6 @@
 # Graphics and Data Visualisation
 
-This folder contains the code and necessary files to run the application I created for the second coursework in my Graphics and Data Visualisation module. The goal of this application was to create an interactive 3D visualisation of population data across the uk. The rationale below explains some of the decisions I made, and is an excerpt from the written report. I achieved a grade of 45/50 in this coursework.
+This folder contains the code and necessary files to run the application I created for the second coursework in my Graphics and Data Visualisation module. The goal of this application was to create an interactive 3D visualisation of population data across the uk. Creating this required a solid grasp of trigonometry to manipulate the camera precisely in code. The rationale below explains some of the decisions I made, and is an excerpt from the written report. I achieved a grade of 45/50 in this coursework.
 
 ### Rationale
 
