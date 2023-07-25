@@ -1,6 +1,6 @@
 # Parallel Algorithms
 
-While working on this module, one of the assignments involved developing my own algorithm to run in parallel as well as my own Sorting Network. I achieved 100% of the marks on both questions.
+While working on this module, one of the assignments involved developing my own algorithm to run in parallel as well as my own Sorting Network. I achieved 100% of the marks for these questions, and 84% overall in this module.
 
 ### Parallel Algorithm Design
 
