@@ -10,7 +10,7 @@ There is an executable file within the */dist*  directory. On the left of the wi
 
 ### Dissertation
 
-The following is an excerpt from the Abstract of my dissertation:
+A copy of my dissertation is available upon request. The following is an excerpt from the Abstract of my dissertation:
 
 >Pathfinding algorithms are present in everyday technology such as video games or the route planning in google maps. Despite their ubiquity, they commonly use a mathematical language that requires familiarity and experience to fully understand. Reading algorithms in their most abstract form requires experience and familiarity, even more so if your goal is to extrapolate from the abstract and begin to understand the behaviour of an algorithm
 >The program implements the binary tree and Aldous-Broder methods of maze generation as well as an algorithm developed alongside the software to create randomised mazes. The program can then implement a range of 3 different pathfinders with 7 total variations, including Breadth-First Search, Depth-First Search and A*.
