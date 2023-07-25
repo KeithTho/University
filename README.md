@@ -9,3 +9,5 @@ Each folder represents a different module completed during my degree
 *Parallel Algorithms* was a module focused on algorithm design on hypothetical parallel machines known as PRAM. This folder includes a copy of the algorithm I designed as well as a constructed sorting network.
 
 *Solving Procedurally Generated Mazes* was the name of my final year project and includes the algorithm-based software that I wrote. My dissertation is available upon request.
+
+*Virtualised Computing Hardware* was entirely design work in a written report, as well as an exam. However, during this module I learned to write in **C** and use Linux, and this folder includes short programs written in **C** to benchmark virtualised hardware.
